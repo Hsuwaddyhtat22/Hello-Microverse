@@ -25,10 +25,11 @@
 - [📝 License](#license)
 
 
-# 📖 Microverse setup project<a name="about-project"></a>
+# 📖 [Microverse setup project]<a name="about-project"></a>
 
 
 **This is my first Microverse project**
+**I write this project with HTML and CSS.**
 
 ## 🛠 Built With <a name="built-with"></a>
  HTML
@@ -58,18 +59,13 @@ CSS
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **HTML**
 - **CSS**
 - **Git**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -77,7 +73,7 @@ CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -158,15 +154,12 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Header]**
-- [ ] **[Footer]**
-- [ ] **[more styling with Css]**
+- **[Header]**
+- **[Footer]**
+- **[more styling with Css]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
