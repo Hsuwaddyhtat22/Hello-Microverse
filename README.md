@@ -3,6 +3,9 @@
  🛠 Built With
  .Tech Stack
  .Key Features
+  linter
+  github flow
+ (back to top)
 🚀 Live Demo
 .💻 Getting Started
 .Setup
