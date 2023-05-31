@@ -116,26 +116,13 @@ Install this project with:
 In order to use this project you have to use branch in vs code
 and open with live server.
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 
 ### Deployment
 
 You can use github pages  to deploy your project.
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,8 +131,9 @@ Example:
 
 👤 **Author-Hsu Waddy Htat**
 
-- GitHub: [@Hsuwaddyhtat22](https://github.com/githubhandle)
-- Twitter: [@HtatWaddy83921](https://twitter.com/twitterhandle)
+-
+- GitHub: [https://github.com/Hsuwaddyhtat22]
+- Twitter: [https://twitter.com/HtatWaddy83921?s=09](https://twitter.com/twitterhandle)
 - LinkedIn: [https://www.linkedin.com/in/hsu-waddy-313a40222](https://linkedin.com/in/linkedinhandle)
 
 
