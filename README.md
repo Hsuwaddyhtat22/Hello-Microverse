@@ -144,9 +144,9 @@ Example:
 
 👤 **Author-Hsu Waddy Htat**
 
-- GitHub: [https://github.com/Hsuwaddyhtat22](https://github.com/githubhandle)
-- Twitter: [https://twitter.com/HtatWaddy83921?s=09](https://twitter.com/twitterhandle)
-- LinkedIn: [https://www.linkedin.com/in/hsu-waddy-313a40222](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Hsuwaddyhtat22)
+- Twitter: [@twitterhandle](https://twitter.com/HtatWaddy83921?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hsu-waddy-313a40222)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
