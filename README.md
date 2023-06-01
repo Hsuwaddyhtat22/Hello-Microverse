@@ -140,9 +140,9 @@ Example:
 
 👤 **Author-Hsu Waddy Htat**
 
-- GitHub:https://github.com/githubhandle
-- Twitter:https://twitter.com/twitterhandle
-- LinkedIn:https://linkedin.com/in/linkedinhandle
+- GitHub:@https://github.com/githubhandle
+- Twitter:@https://twitter.com/twitterhandle
+- LinkedIn:@https://linkedin.com/in/linkedinhandle
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
