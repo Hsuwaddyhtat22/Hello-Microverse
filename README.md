@@ -28,7 +28,7 @@
 # 📖 [Microverse setup project]<a name="about-project"></a>
 
 
-**This is my first Microverse project**
+**This is my first Microverse project.**
 **I write this project with HTML and CSS.**
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -66,10 +66,6 @@ CSS
 - **CSS**
 - **Git**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [http://127.0.0.1:5500/index.html](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +140,9 @@ Example:
 
 👤 **Author-Hsu Waddy Htat**
 
-- GitHub: [https://github.com/Hsuwaddyhtat22](https://github.com/githubhandle)
-- Twitter: [https://twitter.com/HtatWaddy83921?s=09](https://twitter.com/twitterhandle)
-- LinkedIn: [https://www.linkedin.com/in/hsu-waddy-313a40222](https://linkedin.com/in/linkedinhandle)
+- GitHub:https://github.com/githubhandle
+- Twitter:https://twitter.com/twitterhandle
+- LinkedIn:https://linkedin.com/in/linkedinhandle
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
