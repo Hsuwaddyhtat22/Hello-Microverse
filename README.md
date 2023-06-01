@@ -139,10 +139,10 @@ Example:
 
 
 👤 **Author-Hsu Waddy Htat**
+- GitHub: [@githubhandle](https://github.com/Hsuwaddyhtat22)
+- Twitter: [@twitterhandle](https://twitter.com/HtatWaddy83921?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hsu-waddy-313a40222)
 
-- GitHub:@https://github.com/githubhandle
-- Twitter:@https://twitter.com/twitterhandle
-- LinkedIn:@https://linkedin.com/in/linkedinhandle
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
